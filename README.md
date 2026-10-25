@@ -1,3 +1,3 @@
-I am a Data Analyst in Human Resources at Progressive. I ensure Progressive meets its recruiting, retention, performance, and inclusion goals.
+I’m a Data Scientist in Human Resources at Progressive, where I use data to support recruiting, retention, performance, and inclusion goals. My work has evolved from traditional HR analytics into more data science-oriented responsibilities, including predictive modeling, text analysis with LLMs, and app development in Shiny.
 
-I specialize in statistical analysis and work primarily with R. I frequently build interactive reports with Tableau.
+This GitHub profile is where I keep my personal projects, experiments, and learning work in data science and analytics. It includes projects built to sharpen my skills in modeling, analysis, visualization, and applied ML, along with my homepage and consulting work. I’m especially interested in using data to answer meaningful questions and build tools that make insight easier to explore.
